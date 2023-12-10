@@ -54,5 +54,16 @@ namespace ProgramozasiTetelek.Tesztek
             var osszegezhetoTomb = new OsszegezhetoTomb(adatok);
             Assert.AreEqual(3, osszegezhetoTomb.Osszeg);
         }
+
+        [TestMethod]
+        public void VeletlenSzamokOsszege()
+        {
+            //OsszegezhetoTomb osszegezhetoTomb = Tombgenerator.VeletlenOsszegezhetoTombGeneralasa(8);
+            //var osszegezhetoTomb = Tombgenerator.StatikusOsszegezhetoTomb;
+
+            int[] adatok = { -62, 62, 43, -61, -37, 0, 26, -59 };
+            var osszegezhetoTomb = new OsszegezhetoTomb(adatok);
+            Assert.AreEqual(-88, osszegezhetoTomb.Osszeg);
+        }
     }
 }
