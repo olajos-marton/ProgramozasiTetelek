@@ -4,7 +4,7 @@ title: "Vizsgaremek követelményei"
 permalink: /vizsgaremek_kovetelmenyei/
 ---
 
-# Vizsgaremek követelményei és ütemezése (2026/2027-es tanév)
+# Vizsgaremek követelményei és becsült határidők a 2026/2027-es tanévben
 
 ---
 
@@ -46,20 +46,20 @@ A megosztott anyagnak (pl. GitHub) az alábbiakat kell tartalmaznia:
 
 ---
 
-## 3. Ütemezés és mérföldkövek
+## 3. Átszámított ütemezés a 2026/2027-es tanév naptára alapján
 
-| Mérföldkő / Feladat | Várható időpont / Határidő |
-| :--- | :--- |
-| **Feladat meghatározása, projektcsapat alakítása** | 3. tanítási hét péntek – 09. 19. |
-| **Feladatválasztás véglegesítése, dokumentálása** (igazgatói jóváhagyással) | 4. tanítási hét péntek – 09. 26. |
-| **A feladat specifikációjának elkészítése, szerepek rögzítése** | Október 2. tanítási hete – 10. 10. |
-| **Látványterv készítése a felhasználói felületekről** | November 1. tanítási hete – 11. 03. |
-| **Adatmodell terv, ER-diagramok, architektúra és REST API tervezése** | November 3. hete – 11. 17. |
-| **I. Checkpoint:** Bemutatás a konzulensnek és az osztályfőnöknek | December 2. tanítási hete – 12. 08. |
-| **II. Checkpoint:** Bemutatás a konzulensnek és az osztályfőnöknek | Január 1. tanítási hete – 01. 09. |
-| **III. Checkpoint:** Bemutatás a konzulensnek és az osztályfőnöknek | Február 2. tanítási hete – 02. 13. |
-| **A vizsgaremek teljes dokumentációjának befejezése** | Március utolsó teljes tanítási hete – 03. 26. |
-| **A vizsgaremek próbavédése** | Április 3. hete – 04. 17. |
-| **Az elkészült vizsgaremek véglegesítése és beadása** | Április 4. hete – 04. 24. |
+| Mérföldkő / Feladat | Leírás / Tanítási hét | Várható határidő (2026/2027) |
+| :--- | :--- | :--- |
+| **Projektcsapat alakítása, feladat meghatározása** | 3. tanítási hét péntek | **2026. szeptember 18. (péntek)** |
+| **Feladatválasztás véglegesítése, dokumentálása** | 4. tanítási hét péntek | **2026. szeptember 25. (péntek)** |
+| **Specifikáció és szerepek rögzítése** | Október 2. tanítási hete | **2026. október 9. (péntek)** |
+| **Látványterv készítése** | November 1. tanítási hete *(őszi szünet után)* | **2026. november 6. (péntek)** |
+| **Adatmodell, ER-diagramok, REST API tervezés** | November 3. hete | **2026. november 20. (péntek)** |
+| **I. Checkpoint** (bemutatás konzulensnek, ofőnek) | December 2. tanítási hete | **2026. december 11. (péntek)** |
+| **II. Checkpoint** (bemutatás konzulensnek, ofőnek) | Január 1. tanítási hete *(téli szünet után)* | **2027. január 8. (péntek)** |
+| **III. Checkpoint** (bemutatás konzulensnek, ofőnek) | Február 2. tanítási hete | **2027. február 12. (péntek)** |
+| **Teljes dokumentáció befejezése** | Március utolsó teljes tanítási hete *(tavaszi szünet előtt)* | **2027. március 19. (péntek)** |
+| **Vizsgaremek próbavédése** | Április 3. hete | **2027. április 16. (péntek)** |
+| **Véglegesítés és végső beadás** | Április 4. hete *(végzősök utolsó tanítási napja: ápr. 30.)* | **2027. április 23. (péntek)** |
 
-> **Megjegyzés:** A szakmai vizsga megkezdésének feltétele a vizsgaremek elkészítése, valamint a vizsgaközpontnak történő leadása a szakmai vizsga megkezdése előtt legalább 14 nappal (GitHubon vagy hasonló szolgáltatáson keresztül megosztva). A vizsgaközpont ennél korábbi időpontot is meghatározhat.
+> **Megjegyzés:** A 2026/2027-es tanévben a végzős középfokú diákok utolsó tanítási napja **2027. április 30. (péntek)**, az őszi szünet 2026. október 23–november 1., a téli szünet 2026. december 19–2027. január 3., a tavaszi szünet pedig 2027. március 25–április 4. között lesz.
