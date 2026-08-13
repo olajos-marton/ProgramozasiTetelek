@@ -4,10 +4,6 @@ title: "Vizsgaremek követelményei"
 permalink: /vizsgaremek_kovetelmenyei/
 ---
 
-# Vizsgaremek-követelmények és ütemezés a 2026/2027-es tanévben
-
----
-
 ## 1. Szakmai és szoftveres elvárások
 
 - **Csapatméret:** A feladatot 2 fős csapatokban kell elkészíteni.
